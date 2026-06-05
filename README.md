@@ -1,9 +1,27 @@
-# Market Intelligence Scout
-
-> AI-powered competitive intelligence platform that discovers, verifies, and scores technical features from public sources. Give it a company name — it returns a structured executive report with confidence-scored, cross-verified technical updates from the past 7 days.
-
-**Live:** [market-scout.me](https://market-scout.me) · **API:** [api.market-scout.me](https://api.market-scout.me)
-
+<div align="center">
+# MARKET INTELLIGENCE SCOUT
+ 
+### AI-Powered Competitive Intelligence Platform for Technical Signal Discovery
+ 
+*An autonomous multi-agent pipeline that watches the web, extracts verified technical signals from public sources, scores them by confidence, and delivers a structured executive report — so product and strategy teams always know what competitors shipped this week.*
+ 
+---
+ 
+![Status](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
+![Azure](https://img.shields.io/badge/DEPLOYED_ON-AZURE-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GITHUB_ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LangGraph](https://img.shields.io/badge/ORCHESTRATION-LANGGRAPH-FF6B35?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-NVIDIA_NIM_%7C_LLAMA_3.1-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Backend](https://img.shields.io/badge/BACKEND-FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Frontend](https://img.shields.io/badge/FRONTEND-REACT_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Memory](https://img.shields.io/badge/MEMORY-SBERT_%7C_FAISS-764ABC?style=flat-square)
+![Deploy](https://img.shields.io/badge/INFRA-DOCKER_%7C_REDIS_%7C_POSTGRES-CC0000?style=flat-square)
+ 
+---
+ 
+🚀 **Live App** — [market-scout.me](https://market-scout.me) · **Interactive API (Swagger)** — [api.market-scout.me/docs](https://api.market-scout.me/docs)
+ 
+</div>
 ---
 
 ## Table of Contents
