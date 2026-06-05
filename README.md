@@ -1,5 +1,7 @@
 <div align="center">
- MARKET INTELLIGENCE SCOUT
+<h1 align="center">
+  MARKET INTELLIGENCE SCOUT
+</h1>
  
 ### AI-Powered Competitive Intelligence Platform for Technical Signal Discovery
  
